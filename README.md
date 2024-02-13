@@ -21,16 +21,11 @@ Il s'agit d'une application mobile en iOS Swift UI ayant pour objectif de réper
 
 ## Aperçu du projet
 
-<img width="302" alt="Screenshot 2024-02-09 at 11 59 00" src="https://github.com/thaliawoods/SafeOrNot/assets/135039431/9a5b0c6b-b144-4db2-9735-82b9d8fcdc56">
+<img width="167" alt="Screenshot 2024-02-13 at 15 43 21" src="https://github.com/thaliawoods/SafeOrNotMobile/assets/135039431/fc9ad935-8927-4553-8279-cdecdbe97233">
+<img width="191" alt="Screenshot 2024-02-13 at 15 41 52" src="https://github.com/thaliawoods/SafeOrNotMobile/assets/135039431/6de3271d-34b9-48e2-9531-b926ac0723e0">
+<img width="162" alt="Screenshot 2024-02-13 at 15 43 41" src="https://github.com/thaliawoods/SafeOrNotMobile/assets/135039431/73281e72-4e09-4a93-aa78-ba09b7df7a1a">
+<img width="160" alt="Screenshot 2024-02-13 at 15 40 04" src="https://github.com/thaliawoods/SafeOrNotMobile/assets/135039431/67007a7f-6504-47ee-80bd-f0396b3e9a09">
 
-<img width="287" alt="Screenshot 2024-02-09 at 11 59 45" src="https://github.com/thaliawoods/SafeOrNot/assets/135039431/c085e2f1-ff94-4366-be65-55d149e474b6">
-
-
-
-
-<img width="265" alt="Screenshot 2024-02-12 at 00 03 18" src="https://github.com/thaliawoods/SafeOrNot/assets/135039431/813e740b-c3da-4a8e-9f64-858884b46d63">
-
-<img width="311" alt="Screenshot 2024-02-12 at 00 01 46" src="https://github.com/thaliawoods/SafeOrNot/assets/135039431/3571b618-0326-4ce0-8664-348274f0a71e">
 
 
 ## Tech Stack
