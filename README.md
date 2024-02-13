@@ -8,8 +8,7 @@ Nous allons créer une application iPhone. Le but est de découvrir le mobile et
 Plus concrètement, ce projet permet de travailler le langage Swift avec l’utilisation de XCode sur une application iPhone.
 On y va par étape pour pouvoir explorer la conception UI, avec une navigation simple depuis une liste. Ainsi que le parsing des données et la connexion à une API en dernière étape.
 
-Application mobile en  IOS Swift UI visant à répertorier les médecins en fonction de leur niveau de confiance. 
-Possibilité de partager des avis et d'émettre des alertes en cas de danger potentiel.  
+Il s'agit d'une application mobile en iOS Swift UI ayant pour objectif de répertorier les médecins en fonction de leur niveau de confiance. Elle offrira la possibilité aux utilisateurs de partager leurs avis et d'émettre des alertes en cas de danger potentiel.  
 
 
 ## Thalia WOODS - 6 jours
