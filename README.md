@@ -14,9 +14,9 @@ Il s'agit d'une application mobile en iOS Swift UI ayant pour objectif de réper
 ## Thalia WOODS - 6 jours
 
 
-## WireFrame
+## Tech Stack
 
-![Manuscrit_2024-01-11_150335](https://github.com/thaliawoods/SafeOrNotMobile/assets/135039431/a8611338-9e4b-4154-85cd-049053c3e5b2)
+- **Langages:** IOS Swift UI
 
 
 ## Aperçu du projet
@@ -27,8 +27,8 @@ Il s'agit d'une application mobile en iOS Swift UI ayant pour objectif de réper
 <img width="160" alt="Screenshot 2024-02-13 at 15 40 04" src="https://github.com/thaliawoods/SafeOrNotMobile/assets/135039431/67007a7f-6504-47ee-80bd-f0396b3e9a09">
 
 
+## WireFrame
 
-## Tech Stack
+![Manuscrit_2024-01-11_150335](https://github.com/thaliawoods/SafeOrNotMobile/assets/135039431/a8611338-9e4b-4154-85cd-049053c3e5b2)
 
-- **Langages:** IOS Swift UI
 
