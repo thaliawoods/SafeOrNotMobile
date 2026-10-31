@@ -1,13 +1,13 @@
 //
-//  SafeOrNotMobileUITests.swift
-//  SafeOrNotMobileUITests
+//  TestMapSafeOrNotUITests.swift
+//  TestMapSafeOrNotUITests
 //
-//  Created by Thalia Woods on 12/02/2024.
+//  Created by Thalia Woods on 16/01/2024.
 //
 
 import XCTest
 
-final class SafeOrNotMobileUITests: XCTestCase {
+final class TestMapSafeOrNotUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

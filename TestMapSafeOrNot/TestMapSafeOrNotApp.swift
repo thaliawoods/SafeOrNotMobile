@@ -1,14 +1,14 @@
 //
-//  SafeOrNotMobileApp.swift
-//  SafeOrNotMobile
+//  TestMapSafeOrNotApp.swift
+//  TestMapSafeOrNot
 //
-//  Created by Thalia Woods on 12/02/2024.
+//  Created by Thalia Woods on 16/01/2024.
 //
 
 import SwiftUI
 
 @main
-struct SafeOrNotMobileApp: App {
+struct SafeOrNotApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

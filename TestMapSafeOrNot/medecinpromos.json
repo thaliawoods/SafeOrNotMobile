@@ -1,0 +1,15 @@
+let jsonData = """
+{
+    "records": [
+        {
+            "Medecins": "Jeremie Patot",
+            "Photos": "",
+            "Address": "Notre Dame de Lorette"
+        },
+        {
+            "Medecins": "Onat Rigault",
+            "Photos": ""
+            "Address": "Saint-Denis, 93400"
+        }
+    ]
+}

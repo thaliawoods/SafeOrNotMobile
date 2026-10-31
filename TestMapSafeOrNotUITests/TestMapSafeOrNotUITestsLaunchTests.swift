@@ -1,13 +1,13 @@
 //
-//  SafeOrNotMobileUITestsLaunchTests.swift
-//  SafeOrNotMobileUITests
+//  TestMapSafeOrNotUITestsLaunchTests.swift
+//  TestMapSafeOrNotUITests
 //
-//  Created by Thalia Woods on 12/02/2024.
+//  Created by Thalia Woods on 16/01/2024.
 //
 
 import XCTest
 
-final class SafeOrNotMobileUITestsLaunchTests: XCTestCase {
+final class TestMapSafeOrNotUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
